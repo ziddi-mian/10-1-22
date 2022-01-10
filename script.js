@@ -1487,3 +1487,7 @@ function startOfMonth(date)
 dt = new Date(); 
 
 console.log(startOfMonth(dt).toString());
+
+
+
+
